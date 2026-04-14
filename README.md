@@ -6,6 +6,7 @@ This project showcases my SQL skills in data cleaning, exploration, and analysis
 
   ## Dataset ##
   The dataset used in this projects contains information on ( e.g, sales, customers, orders). It includes multiple tables that were jined and analyzed to uncover trends and patterns.
+   
   
   ## Objectives ##
   - Clean and prepare raw data for analysis
