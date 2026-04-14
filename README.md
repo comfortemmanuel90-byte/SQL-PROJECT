@@ -6,7 +6,8 @@ This project showcases my SQL skills in data cleaning, exploration, and analysis
 
   ## Dataset ##
   The dataset used in this projects contains information on ( e.g, sales, customers, orders). It includes multiple tables that were jined and analyzed to uncover trends and patterns.
-  Screenshot 2026-04-11 062543.png
+ <img width="625" height="364" alt="image" src="https://github.com/user-attachments/assets/b05e8681-4ad5-4ea0-b42e-91aa0a9dfa0f" />
+ 
   
   
    
