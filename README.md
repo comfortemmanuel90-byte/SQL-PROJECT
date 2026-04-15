@@ -49,7 +49,7 @@ This project showcases my SQL skills in data cleaning, exploration, and analysis
     ## Conclusion ##
     This project demonstrates my ability to use SQL to transform raw data into actionable insights and support business decisions.
 
-    Comfort Igoche Aspiring Data Analyst
+    Comfort Igoche Data Analyst| Customer Service Professional
     https://www.linkedin.com/in/comfort-igoche-318218247
     
     
