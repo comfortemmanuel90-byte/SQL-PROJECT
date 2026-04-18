@@ -1,4 +1,5 @@
-## SQL Data Analysis Project ##
+## P9 Console Games SQL Analysis ##
+
 ## Project Overview ##
 This project focuses on analyzing structured data using SQL to uncover meaningful insights, trends, and patterns that support data-driven decision-making. The analysis demonstrates proficiency in querying databases, transforming data, and extracting valuable business insights.
 
