@@ -74,7 +74,7 @@ Use insights to guide future business decisions
  
 
     Comfort Igoche Data Analyst| Customer Service Professional
-    https://www.linkedin.com/in/comfort-igoche-318218247
+    
     
     
 
