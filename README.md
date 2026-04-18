@@ -1,53 +1,74 @@
-## SQL-PROJECT ##
+## SQL Data Analysis Project ##
+## Project Overview ##
+This project focuses on analyzing structured data using SQL to uncover meaningful insights, trends, and patterns that support data-driven decision-making. The analysis demonstrates proficiency in querying databases, transforming data, and extracting valuable business insights.
 
-## Overview ##
-This project showcases my SQL skills in data cleaning, exploration, and analysis. The goal was to extract meaningful insights from raw data and answer key business 
-  questions using structured queries.
+## Objective ##
+The primary objective of this project is to:
+* Analyze raw data stored in relational databases
+* Extract actionable insights using SQL queries
+* Answer key business questions through data exploration
+* Demonstrate strong SQL and analytical skills
 
-  ## Dataset ##
-  The dataset used in this projects contains information on ( e.g, sales, customers, orders). It includes multiple tables that were jined and analyzed to uncover trends and patterns.
- <img width="625" height="364" alt="image" src="https://github.com/user-attachments/assets/b05e8681-4ad5-4ea0-b42e-91aa0a9dfa0f" />
- 
+  ## Scope ##
+This analysis is limited to the available dataset and focuses on:
+* Data cleaning and preparation
+* Querying and transforming data
+* Identifying trends and relationships
+* Generating insights based on historical data
   
+### Analysis Covers ###
+* Data filtering and sorting
+* Aggregations (SUM, COUNT, AVG, etc.)
+* Grouping and categorization
+* Joins (INNER JOIN, LEFT JOIN, etc.)
+* Subqueries and nested queries
+* Data comparison and trend analysis
   
-   
+## Methodology ##
+The project follows a structured approach:
+* Data understanding and inspection
+* Data cleaning and handling missing values
+* Writing SQL queries to explore the dataset
+* Performing aggregations and joins
+* Analyzing results to extract insights
+* Interpreting findings for decision-making
   
-  ## Objectives ##
-  - Clean and prepare raw data for analysis
-  - Analyze trends and patterns in the datasaet
-  - Generate insights to support decision-making
-  - Practise advanced SQL techniques
+## Data Source ##
+The dataset used in this project was obtained from a structured database . It contains relevant information needed to perform analysis and answer key questions.
 
-    ## Tools & Technologies ##
-    -SQL ( MySQL/PostgreSQL/ SQL Server)
-    -Database Management System ( e.g, MySQL Workbench)
+## Tools ##
+SQL (Structured Query Language)
+Used for querying, data manipulation, and analysis within a relational database environment.
 
-    ## Key SQL Techniques Used ##
-    -SELECT, WHERE, ORDRE BY
-    -GROUP BY and Aggregate Functions ( SUM, COUNT, AVG)
-    -JOINs ( INNER JOIN, LEFT JOIN)
-    -Subqueries
-    -Window Function ( RANK, ROW_NUMBER)
-    -Data Cleaning handling duplicates, NULL values)
+## Exploratory Data Analysis (EDA) ##
+ EDA was conducted to:
+* Understand the structure and distribution of the data
+* Identify missing or inconsistent values
+* Detect patterns, trends, and anomalies
+* Prepare the data for deeper analysis
+  
+## Key Questions to Address ##
+* What are the main trends in the dataset?
+* Which categories or segments perform best?
+* Are there any patterns over time?
+* What factors influence key outcomes?
+* Where are the opportunities for improvement?
+  
+## Results ##
+The analysis revealed key insights such as:
+* High-performing categories or segments
+* Noticeable trends and patterns over time
+* Areas with low performance or inefficiencies
+* Relationships between important variables
+  
+## Recommendations ##
+Based on the findings:
+Focus on high-performing segments to maximize results
+Address underperforming areas with targeted strategies
+Improve data quality and consistency for better analysis
+Use insights to guide future business decisions
 
-    ## Key Insights ##
-    -Identified top-performing product/customers
-    -Analyzed sales trends over time
-    -Discovered patterns in customer behavior
-    -Highlighted areas for business improvement
-
-    ## Project Structure ##
-      -SQL Queries.sql
-      -Dataset.csv
-      -README.md
-
-    ## How to Use ##
-    1. Import the dataset into your SQL
-    2. Run the SQL queries procided
-    3. Review the outputs to understand the insights
-   
-    ## Conclusion ##
-    This project demonstrates my ability to use SQL to transform raw data into actionable insights and support business decisions.
+ <img width="625" height="364" alt="image" src="https://github.com/user-attachments/assets/b05e8681-4ad5-4ea0-b42e-91aa0
 
     Comfort Igoche Data Analyst| Customer Service Professional
     https://www.linkedin.com/in/comfort-igoche-318218247
