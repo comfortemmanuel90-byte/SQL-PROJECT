@@ -71,6 +71,13 @@ Use insights to guide future business decisions
 
 <img width="623" height="340" alt="image" src="https://github.com/user-attachments/assets/9b400eac-7668-49d1-8522-e24a19d35312" />
 
+
+<img width="677" height="345" alt="Screenshot 2026-04-28 103241" src="https://github.com/user-attachments/assets/c42d4d77-eeab-403c-875b-a3d133bb8e87" />
+
+
+
+
+
  
 
     Comfort Igoche Data Analyst| Customer Service Professional
